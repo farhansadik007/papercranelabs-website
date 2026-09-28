@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <!-- Emerald Green Squircle Icon Badge -->
+  <rect width="512" height="512" rx="118" fill="#059669" />
+  
+  <!-- Origami Crane Geometry -->
+  <g transform="translate(18, 16) scale(0.93)" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Tail / Right Wing (Back facet) -->
+    <polygon points="285,255 422,82 375,368" fill="rgba(255, 255, 255, 0.9)" />
+    
+    <!-- Center Peak / Middle Wing -->
+    <polygon points="175,190 222,80 285,255" fill="rgba(255, 255, 255, 0.95)" />
+    
+    <!-- Neck and Chest -->
+    <polygon points="125,166 175,190 220,270 168,288" fill="rgba(255, 255, 255, 0.9)" />
+    
+    <!-- Beak -->
+    <polygon points="125,166 60,215 120,205" fill="#FFFFFF" />
+    
+    <!-- Bottom Left Triangular Fold -->
+    <polygon points="135,378 168,288 206,378" fill="rgba(255, 255, 255, 0.85)" />
+    
+    <!-- Front Fold Diamond - Upper Half -->
+    <polygon points="260,236 175,300 375,368" fill="#FFFFFF" />
+    
+    <!-- Front Fold Diamond - Lower Half -->
+    <polygon points="175,300 248,460 375,368" fill="rgba(255, 255, 255, 0.92)" />
+    
+    <!-- Structural Crease Lines -->
+    <line x1="125" y1="166" x2="135" y2="378" stroke="#059669" stroke-width="10" />
+    <line x1="135" y1="378" x2="206" y2="378" stroke="#059669" stroke-width="10" />
+    <line x1="175" y1="300" x2="375" y2="368" stroke="#059669" stroke-width="10" />
+  </g>
+</svg>
